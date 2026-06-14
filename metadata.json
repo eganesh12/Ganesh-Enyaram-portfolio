@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Ganesh Enyaram Portfolio",
+  "description": "A high-performance futuristic AI \u0026 Data Science portfolio website for Ganesh Enyaram, featuring custom AI chatbot, resume analyzer, career advisor, and interactive analytics tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
